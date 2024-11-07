@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **anything that related to software engineering**
 
-- 💬 Ask me about **golang, c# and nodejs**
+- 💬 Ask me about **golang, c#, c, ts, js**
 
 - 📫 How to reach me **ali.bagheri.software@gmail.com**
 
