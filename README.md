@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **golang, c# and nodejs**
 
-- 📫 How to reach me **bagheri.danalab@gmail.com**
+- 📫 How to reach me **ali.bagheri.software@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/ali-bagheri-972015211/](https://www.linkedin.com/in/ali-bagheri-972015211/)
 
