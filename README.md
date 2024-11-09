@@ -10,6 +10,8 @@
 - 📫 How to reach me **ali.bagheri.software@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/ali-bagheri-972015211/](https://www.linkedin.com/in/ali-bagheri-972015211/)
+  
+- 📄 Know about me [https://itsali.ir/])
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
